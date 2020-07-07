@@ -2,10 +2,10 @@
 
 Companies should look at AI through the lens of business capabilities rather than technologies
 
-## AI can broadly support three important business needs
+## AI can broadly support three important business needs 
 - Automating Business process
 - Gaining insights through data analysis
-- engaging with customers and employees
+- Engaging with customers and employees
 
 ## Top Challenges for AI initiatives
 - Implementation Challenges
@@ -52,7 +52,7 @@ Measure, Learn & Evolve
 
 A/B testing helps to make more data-driven decisions, when it comes to evolving your product and improving it.
 
-## Things to consider before deciding on a model
+Things to consider before deciding on a model
 - Cost benefit Analysis
 - Consider the potential cost of AI Implementation
 - What is the long term investment to implement a better model?
