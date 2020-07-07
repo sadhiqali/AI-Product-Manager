@@ -95,3 +95,18 @@ Model
 2. User corrects mislabeled spams
 3. Retrian model with user data
 4. Accuracy improves with time
+
+## Optimizing for Accuracy Vs Recall Vs Precision
+Recall - The percentage of total relevant results correctly classified by your algorithm
+Precision - The proportion of the data points model says was relevant actually were relevant
+For example, if we are doing a cancer diagnostics, false negative is completely unacceptable than a false positive. In this case recall is more important than precision. 
+
+## Compliance and Ethics
+Today, AI products are entrusted with complex decision systems like granting parole, diagnosing diseases, job interviews, for managing trades, granting credits, autonomous vehicles to autonomous weapons. Which raises a serious concern on areas like fairness, trust, ethics, privacy and security.
+41% of voice assistant users have concerns about trust and privacy - Microsoft Report. Building trust is the key for AI Product Managers. 
+
+### Privacy-First Approach
+- Data laws and AI coexist with privacy first approach
+- Deeper understanding & governance of data
+- Understand the sensitivity of the data (PII (Personally identifiable information) and PHI (Protected Health information)) etc.,
+- Obtain explicit consent and explain to customers how thier data will be processed
