@@ -32,12 +32,13 @@ Outcome  - Generate Revenue, Improve Customer experience, Increase user satisfac
 "Monitor the accuracy, performance and fairness of your AI models and understand the reasoning behind the results" | Output is just a metric to keep tracking, Outcome is what drives the business
 
 ### Customer Service Chatbot Example
+
 Output Metrics 
-- No of Active users 
-- # of bot sessions initiated
+- Number of Active users 
+- Number of bot sessions initiated
 - Average chat sessions
 - Average chats handled by bot
-- # of new users using bot daily, weekly, monthly
+- Number of new users using bot daily, weekly, monthly
 
 Outcome Metrics
 - Increase in Conversion Rate
@@ -86,6 +87,7 @@ We need diversity where subjective opinions matter! If you are building a produc
 ## Active Learning
 Model
 > Low confident Predictions - sent for human training (HILT) - human annotates and sent back to retrain the model. Smart Selection: Identify the most valuable training data units for humans annotation. Increases the model accuracy and reduces cost
+
 > High confident predictions - moves to production system
 
 ## Real world example: Spam Filter
