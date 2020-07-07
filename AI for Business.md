@@ -65,7 +65,7 @@ For E.g Alexa and Google Assistant are 30% less likely to understand non-america
 
 Bias is generated from the training data. Training/Screening Data comes from humans and humans are inherently biased!
 
-## Different types of Bias
+### Different types of Bias
 - Model Bias
 - Data Bias 
 - Annotation Bias 
@@ -78,7 +78,7 @@ We need diversity where subjective opinions matter! If you are building a produc
 - Image Moderation
 - Audio/Text Collection for Speech AI
 
-## Addressing unwanted Bias 
+### Addressing unwanted Bias 
 - Collect data from multiple sources, real world examples, avoid relying heavily on academic data sets, cover enough examples and edge cases, ask diverse questions, annotate with diversity, think about users and test with them
 - Build user experiences for failure/edge cases
 - Take feedback and improve, ensure that the system is actively learning with new examples, real world data with human in the loop (HILT)
@@ -89,7 +89,7 @@ Model
 
 > High confident predictions - moves to production system
 
-## Real world example: Spam Filter
+### Real world example: Spam Filter
 1. Filter email with machine learning
 2. User corrects mislabeled spams
 3. Retrain model with user data
